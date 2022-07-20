@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 👨‍💻  I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Click here to view my LinkedIn profile](https://www.linkedin.com/in/paulofrazao))
+- [Click here to view my LinkedIn profile](https://www.linkedin.com/in/paulofrazao)
 
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofrazao&show_icons=true&hide_border=true)&nbsp;&nbsp;
 <br />
