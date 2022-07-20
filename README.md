@@ -36,18 +36,15 @@ Here are some ideas to get you started:
 👨‍💻  I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Software Develpment Engineer (FreeCharge)](https://www.freecharge.in/) - (Jul'21-Present)
-- [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present)
-- [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21)
+- [See LinkedIn for details](https://www.linkedin.com/in/paulofrazao)/)
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=paulofrazao&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulofrazao&layout=compact&langs_count=8&hide_border=true)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofrazao&show_icons=true&hide_border=true)&nbsp;&nbsp;
 <br />
 
 
 ### 📕 Blog Posts
-- [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
+- [Stay Tuned....](https://www.weave.works)
 - [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=paulofrazao.paulofrazao)
