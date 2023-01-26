@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/paulofrazao">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:mailtopfrazao@gmail.com">
+<a href="mailto:pfrazao@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
