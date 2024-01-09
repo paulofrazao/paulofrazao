@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 ### 📕 Blog Posts
-- [Weaveworks Blog Posts....](https://www.weave.works/blog)
+- [Solo.io Blog Posts....](https://solo.io/blog)
 - [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
 <br/>
 
