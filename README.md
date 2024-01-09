@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 [I’m a CRE @Weaveworks](https://www.weave.works) </br>
+🌱 [I’m a Senior Solutions Engineer @Solo.io](https://www.solo.io) </br>
 👨‍💻  I enjoy learning new things. </br>
 
 ### LinkedIn 🙌
